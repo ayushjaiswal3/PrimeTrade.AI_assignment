@@ -5,7 +5,7 @@
 
 ## 🚀 Overview
 This is the **Frontend** for the PrimeTrade assignment, built using **React 19**, **Vite**, **CSS**, and a modern dark UI theme inspired by trading dashboards.  
-It integrates seamlessly with the backend (Node.js + MySQL) using JWT authentication.
+It integrates seamlessly with the backend (Node.js + MongoDb) using JWT authentication.
 
 ---
 
