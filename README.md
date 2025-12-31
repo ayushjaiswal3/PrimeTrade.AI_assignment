@@ -1,7 +1,6 @@
 # PrimeTrade Frontend (React)
 
-## 🎥 Project Walkthrough Video (2–3 minutes)
-▶️ https://youtu.be/IRa9oQEmmoM
+
 
 
 ## 🚀 Overview
